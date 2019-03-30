@@ -1,0 +1,11 @@
+autocorrect==0.3.0
+Click==7.0
+Flask==1.0.2
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.1
+nltk==3.4
+regex==2019.3.12
+singledispatch==3.4.0.3
+six==1.12.0
+Werkzeug==0.15.1
